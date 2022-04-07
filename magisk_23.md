@@ -1,43 +1,35 @@
-Professional Rooting and iCloud Unlocking
+Magisk Custom Channel for 23.0 
 
-- ⚡ Mobile and WhatsApp ⚡
+By
 
-- +973 33956356
+Arjun Anil 
 
-- ⚡ Telegram ⚡
-- https://t.me/Mr_excalibur_90
+- Mobile and WhatsApp 
 
-- Root work is available online with a computer without downloading files of large sizes, the maximum is 30 megabytes ⚡
+📱 +973 33956356
 
-- Downgrade work also available inclduing iCloud Unlocking.
+👨‍💻 Telegram
+https://t.me/Mr_excalibur_90
 
-- ⚡ Devices available for online retrieval ⚡
+👨‍💻 Root work is available online with a computer without downloading files of large sizes, the maximum is 30 megabytes ⚡
 
-- ⚡ ASUS Phone
-- ⚡ Redmagic
-- ⚡ Infinix
-- ⚡ Realme
-- ⚡ Lenovo
-- ⚡ POCO
-- ⚡ Alcatel
-- ⚡ Lava
-- ⚡ Techno
-- ⚡ OnePlus
-- ⚡ Xiaomi
-- ⚡ Motorola
-- ⚡ Samsung
-- ⚡ Google Pixel Phones
-- ⚡ OPPO MediaTek
-- ⚡ Apple iPhone
+⭐ Downgrade work also available inclduing iCloud Unlocking.
 
-And some devices depending on the type of phone
+⭐ Devices available for online retrieval ⚡
 
-- ⚡ Requirements to root online on a computer
-
-4- A computer with Windows 7 or later
-5- The original charger for the phone
-6- Average or good internet
-7- Team Viewer Program
-
-- Most phones 90% without recovery rate without problems with removal of the logo to unlock the bootloader and modifications to the devices and the warning message for Samsung
-- After rooting each device, the safety net problem is fixed and the root is hidden from the game and the root package is hidden
+⭐ ASUS Phone
+- ⭐ Redmagic
+- ⭐ Infinix
+- ⭐ Realme
+- ⭐ Lenovo
+- ⭐ POCO
+- ⭐ Alcatel
+- ⭐ Lava
+- ⭐ Techno
+- ⭐ OnePlus
+- ⭐ Xiaomi
+- ⭐ Motorola
+- ⭐ Samsung
+- ⭐ Google Pixel Phones
+- ⭐ OPPO MediaTek
+- ⭐ Apple iPhone
