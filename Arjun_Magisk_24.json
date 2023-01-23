@@ -1,8 +1,8 @@
 {
     "magisk": {
-      "version": "24.2",
+      "version": "24.3",
       "versionCode": "23000",
-      "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.2/app-release.apk",
+      "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.3/app-release.apk",
       "note": "https://github.com/ArjunAnil45/Magisk/blob/main/magisk_23.md"
     },
     "stub": {
